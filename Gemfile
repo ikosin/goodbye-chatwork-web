@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+ruby '2.4.1'
+gem 'sinatra',          '2.0.0.rc2'
+gem 'sinatra-contrib',  '2.0.0.rc2'
+gem 'foreman',          '0.84.0'
+gem 'unicorn',          '5.3.0'
+gem 'actionview',       '5.0.2'
+gem 'goodbye_chatwork', '0.0.6'
+gem 'rubyzip',          '1.2.1'
+
